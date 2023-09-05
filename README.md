@@ -1,0 +1,2 @@
+# shortcut-os
+shortcut os
