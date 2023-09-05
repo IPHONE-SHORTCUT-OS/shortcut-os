@@ -1,2 +1,1 @@
-# shortcut-os
-[https://raw.githubusercontent.com/IPHONE-SHORTCUT-OS/shortcut-os/main/shortcut%20os.png]
+![minecraft bedrock launcher logo](https://raw.githubusercontent.com/BedrockLauncher/BedrockLauncher.GitHub.io/main/src/assets/images/logos/logo.png)
